@@ -21,4 +21,4 @@
 #-renamesourcefileattribute SourceFile
 
 
--keep class com.example.haoyuan.catchallappsinfo.PackageInfoShow { *; }
+#-keep class com.example.haoyuan.catchallappsinfo.PackageInfoShow { *; }
