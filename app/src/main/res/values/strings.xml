@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">查询已安装应用信息</string>
+  <string name="refresh">刷新</string>
+</resources>
